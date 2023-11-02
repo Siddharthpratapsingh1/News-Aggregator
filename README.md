@@ -1,9 +1,9 @@
-# Title of the project : Dynamic News Aggregator with React and News API.
-
+# Title of the project : 
+  Dynamic News Aggregator with React and News API.
 # Description 
-I developed a dynamic news aggregator web application using React
-that offers users the ability to stay updated with the latest news across various
-categories with user-friendly interface.
+  I developed a dynamic news aggregator web application using React
+  that offers users the ability to stay updated with the latest news across various
+  categories with user-friendly interface.
 # Key Features:
 - Daily News Updates: Get the freshest news every day to stay current with the latest events and developments.
 - Multiple News Categories: Explore news articles from a wide range of categories, such as technology, sports, business, entertainment, and more.
@@ -13,4 +13,5 @@ categories with user-friendly interface.
 # Technology used : 
 * React JS, JavaScript, HTML and CSS.
 # Output :
+  https://github.com/Siddharthpratapsingh1/News-Aggregator/assets/137768499/f7d914e7-9efb-441b-a7b4-3b5dd64873e3
 
